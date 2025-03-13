@@ -1,0 +1,20 @@
+@import "./variables";
+
+.footer {
+  background-color: #8a5b82;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.story {
+  font-family: "Fleur De Leah";
+  font-size: 2em;
+}
+
+.title {
+  font-family: "Shojumaru";
+  color: rgb(7, 82, 82);
+}
