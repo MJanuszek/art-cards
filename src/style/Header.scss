@@ -1,1 +1,10 @@
 @import "./variables";
+
+.header {
+  height: 90vh;
+  background-color: $bg-color-04;
+}
+
+.header-title {
+  font-family: "Shojumaru", sans-serif;
+}
