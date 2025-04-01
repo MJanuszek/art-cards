@@ -27,9 +27,10 @@ const Cards = function () {
   return (
     <div className="wrapper-cards">
       <div className="slide-left">
-        <div className="element">1</div>
+        <div className="element klimt01"></div>
       </div>
-      <div className="slide-left">
+
+      <div className="slide-left card02">
         <div className="element">2</div>
       </div>
       <div className="slide-left">
