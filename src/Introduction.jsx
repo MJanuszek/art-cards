@@ -1,5 +1,5 @@
 import "./style/Introduction.scss";
-import Video from "./Video";
+// import Video from "./Video";
 
 const Introduction = function () {
   return (
@@ -15,8 +15,6 @@ const Introduction = function () {
           powiedzieć coś więcej niż tylko kilka słów.
         </p>
       </div>
-
-      <Video />
     </div>
   );
 };
